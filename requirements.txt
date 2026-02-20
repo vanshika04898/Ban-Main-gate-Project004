@@ -1,0 +1,18 @@
+Flask
+Flask-Cors
+pymongo
+python-dotenv
+
+# 🔹 OCR + Detection
+easyocr==1.7.1
+ultralytics==8.1.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+pillow==10.2.0
+
+# 🔹 ML runtime (CPU)
+torch==2.2.2
+torchvision==0.17.2
+
+# 🔹 Production server
+gunicorn==21.2.0
